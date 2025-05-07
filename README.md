@@ -17,7 +17,7 @@ Welcome to my profile. I'm a 16-year-old IT student at Elvebakken VGS in Oslo, h
 - **Main PC:** Ryzen 7 5700X3D / RX 7800XT / Fedora KDE / 3-monitor setup  
 - **Server PC:** Ryzen 9 5900X / RTX 3060 / Ubuntu / 12TB Storage  
 - **On the go:** Xiaomi Pad 7 Pro + Stylus, fully synced with my ecosystem  
-- **Phone:** (currently bricked) Xiaomi 14, temporarily on Xiaomi 12
+- **Phone:** Xiaomi 14 Ultra
 
 ---
 
@@ -27,13 +27,13 @@ Welcome to my profile. I'm a 16-year-old IT student at Elvebakken VGS in Oslo, h
 ---
 
 ### What I’m Learning
-- Better Docker practices (volumes, proxies, permissions)
-- Advanced system diagnostics and repair
-- Smarter automation across my homelab and personal workflows
+- Mastering the basics (HTML, CSS and JS)
+- System management and administration
+- Frameworks like React and Sveltekit & backend for them
 
 ---
 
 ### Want to chat?
-I’m not the first to talk, but I always respond. If youre into tech, self-hosting, or life outside the mainstream—drop a message or check out my repos.
+I’m not the first to talk, but I always respond. Feel free to drop a message or check out my repos.
 
 ---
