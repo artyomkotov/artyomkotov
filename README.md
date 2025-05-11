@@ -6,15 +6,15 @@ Welcome to my profile. I'm a 16-year-old IT student at Elvebakken VGS in Oslo, h
 
 ### What I do
 - Building and maintaining **Dockerized self-hosted servers** (WordPress, Plex, Radarr/Sonarr, Nginx Proxy Manager and more)
-- Experimenting with **Linux systems** (daily driving Fedora KDE)
+- Experimenting with **Linux systems** (used to daily drive Fedora KDE, currently own and manage an Ubuntu Server)
 - Automating media libraries and remote access tools (Moonlight, Overseerr, CasaOS)
-- Breaking, fixing, and optimizing tech—from mobile phones to multi-monitor setups
-- Using AI tools like **ChatGPT** and others to bridge the gap between idea and execution
+- Breaking, fixing, and optimizing tech—from mobile phones to Laptops and desktop pcs
+- Using AI tools like **ChatGPT**, **Deepseek** and others to bridge the gap between idea and execution
 
 ---
 
 ### My Setup
-- **Main PC:** Ryzen 7 5700X3D / RX 7800XT / Fedora KDE / 3-monitor setup  
+- **Main PC:** Ryzen 7 5700X3D / RX 7800XT / Windows 11 LTSC / 3-monitor setup  
 - **Server PC:** Ryzen 9 5900X / RTX 3060 / Ubuntu / 12TB Storage  
 - **On the go:** Xiaomi Pad 7 Pro + Stylus, fully synced with my ecosystem  
 - **Phone:** Xiaomi 14 Ultra
