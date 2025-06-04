@@ -14,7 +14,7 @@ Welcome to my profile. I'm a 16-year-old IT student at Elvebakken VGS in Oslo, h
 ---
 
 ### My Setup
-- **Main PC:** Ryzen 7 5700X3D / RX 7800XT / Windows 11 LTSC / 3-monitor setup  
+- **Main PC:** Ryzen 7 7800X3D / RX 6700XT / Windows 11 LTSC / 3-monitor setup  
 - **Server PC:** Ryzen 9 5900X / RTX 3060 / Ubuntu / 12TB Storage  
 - **On the go:** Xiaomi Pad 7 Pro + Stylus, fully synced with my ecosystem  
 - **Phone:** Xiaomi 14 Ultra
