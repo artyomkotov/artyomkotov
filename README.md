@@ -20,6 +20,7 @@ Welcome to my profile. I'm a 16-year-old IT student at Elvebakken VGS in Oslo, h
 
 ### What I’m Learning
 - React, TailwindCSS, JS
+- Web design - Figma
 - System management and administration
 
 ---
