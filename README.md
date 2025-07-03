@@ -1,23 +1,15 @@
 # Hey, I'm Artyom
 
-Welcome to my profile. I'm a 16-year-old IT student at Elvebakken VGS in Oslo, heavily interested in tech and optimization of workflow and improvement of lifestyle. Currently diving deep into system automation, self-hosted services, and clean UI setups—with a soft spot for Xiaomi gear and efficient workflows.
+Welcome to my profile. I'm a 16-year-old IT student at Elvebakken VGS in Oslo, heavily interested in tech and optimization of workflow and improvement of lifestyle. Currently diving deep into system automation, self-hosted services, and clean UI setups.
 
 ---
 
 ### What I do
 - Building and maintaining **Dockerized self-hosted servers** (WordPress, Plex, Radarr/Sonarr, Nginx Proxy Manager and more)
-- Experimenting with **Linux systems** (used to daily drive Fedora KDE, currently own and manage an Ubuntu Server)
+- Experimenting with **Linux systems** (used to daily drive Fedora KDE (Now on Arch KDE), currently own and manage an Ubuntu Server)
 - Automating media libraries and remote access tools (Moonlight, Overseerr, CasaOS)
 - Breaking, fixing, and optimizing tech—from mobile phones to Laptops and desktop pcs
 - Using AI tools like **ChatGPT**, **Deepseek** and others to bridge the gap between idea and execution
-
----
-
-### My Setup
-- **Main PC:** Ryzen 7 7800X3D / RX 6700XT / Windows 11 LTSC / 3-monitor setup  
-- **Server PC:** Ryzen 9 5900X / RTX 3060 / Ubuntu / 12TB Storage  
-- **On the go:** Xiaomi Pad 7 Pro + Stylus, fully synced with my ecosystem  
-- **Phone:** Xiaomi 14 Ultra
 
 ---
 
@@ -27,9 +19,8 @@ Welcome to my profile. I'm a 16-year-old IT student at Elvebakken VGS in Oslo, h
 ---
 
 ### What I’m Learning
-- Mastering the basics (HTML, CSS and JS)
+- React, TailwindCSS, JS
 - System management and administration
-- Frameworks like React and Sveltekit & backend for them
 
 ---
 
