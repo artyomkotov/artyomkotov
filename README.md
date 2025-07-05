@@ -5,11 +5,11 @@ Welcome to my profile. I'm a 16-year-old IT student at Elvebakken VGS in Oslo, h
 ---
 
 ### What I do
-- Building and maintaining **Dockerized self-hosted servers** (WordPress, Plex, Radarr/Sonarr, Nginx Proxy Manager and more)
-- Experimenting with **Linux systems** (used to daily drive Fedora KDE (Now on Arch KDE), currently own and manage an Ubuntu Server)
-- Automating media libraries and remote access tools (Moonlight, Overseerr, CasaOS)
-- Breaking, fixing, and optimizing tech—from mobile phones to Laptops and desktop pcs
-- Using AI tools like **ChatGPT**, **Deepseek** and others to bridge the gap between idea and execution
+- Developing a social media platform under the name "Node Social", progress is done on GitLab
+- Building and maintaining **Dockerized self-hosted servers** (WordPress, Nginx Proxy Manager, mariadb and more)
+- Working with **Linux systems**. Daily drive Arch Linux as well as own and manage an Ubuntu Server)
+- Electronics repair and software tweaking
+- Using AI tools like **ChatGPT**, **Deepseek**, **Ollama**, 
 
 ---
 
@@ -18,8 +18,8 @@ Welcome to my profile. I'm a 16-year-old IT student at Elvebakken VGS in Oslo, h
 
 ---
 
-### What I’m Learning
-- React, TailwindCSS, JS
+### What I’m Learning/Working with
+- React, TailwindCSS, TS
 - Web design - Figma
 - System management and administration
 
